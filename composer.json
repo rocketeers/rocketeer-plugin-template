@@ -1,0 +1,23 @@
+{
+  "name": "rocketeers/rocketeer-plugin",
+  "description": "The description of the plugin",
+  "license": "MIT",
+  "keywords": [
+    "rocketeer"
+  ],
+  "authors": [
+    {
+      "name": "Maxime Fabre",
+      "email": "ehtnam6@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "anahkiasen/rocketeer": "~2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Rocketeer\\Plugins\\Acme\\": "src/Acme"
+    }
+  }
+}
