@@ -4,7 +4,7 @@ namespace Rocketeer\Plugins\Acme;
 use Rocketeer\Plugins\AbstractPlugin;
 use Rocketeer\Services\TasksHandler;
 
-class Acme extends AbstractPlugin 
+class Acme extends AbstractPlugin
 {
     /**
      * Register Tasks with Rocketeer
