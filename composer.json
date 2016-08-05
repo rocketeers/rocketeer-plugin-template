@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Rocketeer\\Plugins\\Acme\\": "src/Acme"
+      "Rocketeer\\Plugins\\Acme\\": "src"
     }
   },
   "minimum-stability": "dev",
